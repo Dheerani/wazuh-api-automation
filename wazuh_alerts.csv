@@ -1,0 +1,119 @@
+alert_id,rule_id,level,description,srcip,user,timestamp
+1792143429.0,502,3,Wazuh server started.,,,2026 Oct 16 14:37:0
+1792143430.240,533,7,Listened ports status (netstat) changed (new port opened or closed).,,,2026 Oct 16 14:37:1
+1792143431.1310,5502,3,PAM: Login session closed.,,lightdm,2026 Oct 16 14:37:1
+1792143607.1684,591,3,Log file rotated.,,,2026 Oct 16 14:40:0
+1792143776.2041,533,7,Listened ports status (netstat) changed (new port opened or closed).,,,2026 Oct 16 14:42:5
+1792143930.3105,591,3,Log file rotated.,,,2026 Oct 16 14:45:3
+1792144189.3462,591,3,Log file rotated.,,,2026 Oct 16 14:49:4
+1792144253.3821,591,3,Log file rotated.,,,2026 Oct 16 14:50:5
+1792144983.4178,591,3,Log file rotated.,,,2026 Oct 16 15:03:0
+1792145376.4535,591,3,Log file rotated.,,,2026 Oct 16 15:09:3
+1792145776.4892,591,3,Log file rotated.,,,2026 Oct 16 15:16:1
+1792146043.5249,11,4,(null),,,2026 Oct 16 15:20:4
+1792146170.6026,591,3,Log file rotated.,,,2026 Oct 16 15:22:5
+1792146533.6383,5557,5,unix_chkpwd: Password check failed.,,,2026 Oct 16 15:28:5
+1792146533.6783,100001,10,Custom: SSH failed login detected,,hello,2026 Oct 16 15:28:5
+1792146541.7139,5501,3,PAM: Login session opened.,,root,2026 Oct 16 15:29:0
+1792146541.7555,5402,3,Successful sudo to ROOT executed.,,root,2026 Oct 16 15:29:0
+1792146555.8088,5502,3,PAM: Login session closed.,,root,2026 Oct 16 15:29:1
+1792146557.8445,5402,3,Successful sudo to ROOT executed.,,root,2026 Oct 16 15:29:1
+1792146557.8970,5501,3,PAM: Login session opened.,,root,2026 Oct 16 15:29:1
+1792146557.9386,5502,3,PAM: Login session closed.,,root,2026 Oct 16 15:29:1
+1792146563.9743,591,3,Log file rotated.,,,2026 Oct 16 15:29:2
+1792146583.10100,5501,3,PAM: Login session opened.,,root,2026 Oct 16 15:29:4
+1792146583.10517,5402,3,Successful sudo to ROOT executed.,,root,2026 Oct 16 15:29:4
+1792146635.11039,533,7,Listened ports status (netstat) changed (new port opened or closed).,,,2026 Oct 16 15:30:3
+1792146635.12108,5502,3,PAM: Login session closed.,,root,2026 Oct 16 15:30:3
+1792146641.12466,502,3,Wazuh server started.,,,2026 Oct 16 15:30:4
+1792146825.12710,591,3,Log file rotated.,,,2026 Oct 16 15:33:4
+1792146993.13068,533,7,Listened ports status (netstat) changed (new port opened or closed).,,,2026 Oct 16 15:36:3
+1792147013.14073,5402,3,Successful sudo to ROOT executed.,,root,2026 Oct 16 15:36:5
+1792147013.14607,5501,3,PAM: Login session opened.,,root,2026 Oct 16 15:36:5
+1792147013.15024,5502,3,PAM: Login session closed.,,root,2026 Oct 16 15:36:5
+1792147023.15382,5402,3,Successful sudo to ROOT executed.,,root,2026 Oct 16 15:37:0
+1792147023.15944,5501,3,PAM: Login session opened.,,root,2026 Oct 16 15:37:0
+1792147023.16361,5502,3,PAM: Login session closed.,,root,2026 Oct 16 15:37:0
+1792147053.16719,5402,3,Successful sudo to ROOT executed.,,root,2026 Oct 16 15:37:3
+1792147053.17253,5501,3,PAM: Login session opened.,,root,2026 Oct 16 15:37:3
+1792147053.17670,5502,3,PAM: Login session closed.,,root,2026 Oct 16 15:37:3
+1792147061.18028,5402,3,Successful sudo to ROOT executed.,,root,2026 Oct 16 15:37:4
+1792147061.18518,5501,3,PAM: Login session opened.,,root,2026 Oct 16 15:37:4
+1792147061.18935,5502,3,PAM: Login session closed.,,root,2026 Oct 16 15:37:4
+1792147277.19293,591,3,Log file rotated.,,,2026 Oct 16 15:41:1
+1792147406.19651,5557,5,unix_chkpwd: Password check failed.,,,2026 Oct 16 15:43:2
+1792147406.20051,100001,10,Custom: SSH failed login detected,192.168.1.109,root,2026 Oct 16 15:43:2
+1792147408.20404,100001,10,Custom: SSH failed login detected,192.168.1.109,root,2026 Oct 16 15:43:2
+1792147410.20696,5557,5,unix_chkpwd: Password check failed.,,,2026 Oct 16 15:43:3
+1792147410.21096,100001,10,Custom: SSH failed login detected,192.168.1.109,root,2026 Oct 16 15:43:3
+1792147412.21449,100001,10,Custom: SSH failed login detected,192.168.1.109,root,2026 Oct 16 15:43:3
+1792147416.21741,5557,5,unix_chkpwd: Password check failed.,,,2026 Oct 16 15:43:3
+1792147416.22141,100002,12,SSH Brute Force Attack detected from 192.168.1.109,192.168.1.109,root,2026 Oct 16 15:43:3
+1792147418.23038,651,3,Host Blocked by firewall-drop Active Response,192.168.1.109,root,2026 Oct 16 15:43:3
+1792147418.26837,100001,10,Custom: SSH failed login detected,192.168.1.109,root,2026 Oct 16 15:43:3
+1792147546.27129,5402,3,Successful sudo to ROOT executed.,,root,2026 Oct 16 15:45:4
+1792147546.27687,5501,3,PAM: Login session opened.,,root,2026 Oct 16 15:45:4
+1792147546.28104,5502,3,PAM: Login session closed.,,root,2026 Oct 16 15:45:4
+1792147556.28462,5402,3,Successful sudo to ROOT executed.,,root,2026 Oct 16 15:45:5
+1792147556.29032,5501,3,PAM: Login session opened.,,root,2026 Oct 16 15:45:5
+1792147556.29449,5502,3,PAM: Login session closed.,,root,2026 Oct 16 15:45:5
+1792147664.29807,591,3,Log file rotated.,,,2026 Oct 16 15:47:4
+1792147665.30165,11,4,(null),,,2026 Oct 16 15:47:4
+1792147920.30945,5402,3,Successful sudo to ROOT executed.,,root,2026 Oct 16 15:52:0
+1792147920.31503,5501,3,PAM: Login session opened.,,root,2026 Oct 16 15:52:0
+1792147920.31920,5502,3,PAM: Login session closed.,,root,2026 Oct 16 15:52:0
+1792147932.32278,5402,3,Successful sudo to ROOT executed.,,root,2026 Oct 16 15:52:1
+1792147932.32844,5501,3,PAM: Login session opened.,,root,2026 Oct 16 15:52:1
+1792147932.33261,5502,3,PAM: Login session closed.,,root,2026 Oct 16 15:52:1
+1792148018.33619,652,3,Host Unblocked by firewall-drop Active Response,192.168.1.109,root,2026 Oct 16 15:53:3
+1792148047.37426,5402,3,Successful sudo to ROOT executed.,,root,2026 Oct 16 15:54:0
+1792148047.38016,5501,3,PAM: Login session opened.,,root,2026 Oct 16 15:54:0
+1792148047.38433,5502,3,PAM: Login session closed.,,root,2026 Oct 16 15:54:0
+1792148047.38791,5402,3,Successful sudo to ROOT executed.,,root,2026 Oct 16 15:54:0
+1792148047.39327,5501,3,PAM: Login session opened.,,root,2026 Oct 16 15:54:0
+1792148047.39744,5502,3,PAM: Login session closed.,,root,2026 Oct 16 15:54:0
+1792148119.40102,591,3,Log file rotated.,,,2026 Oct 16 15:55:1
+1792148380.40460,5402,3,Successful sudo to ROOT executed.,,root,2026 Oct 16 15:59:4
+1792148380.41050,5501,3,PAM: Login session opened.,,root,2026 Oct 16 15:59:4
+1792148380.41467,5502,3,PAM: Login session closed.,,root,2026 Oct 16 15:59:4
+1792148380.41825,5402,3,Successful sudo to ROOT executed.,,root,2026 Oct 16 15:59:4
+1792148380.42361,5501,3,PAM: Login session opened.,,root,2026 Oct 16 15:59:4
+1792148380.42778,5502,3,PAM: Login session closed.,,root,2026 Oct 16 15:59:4
+1792148462.43136,5501,3,PAM: Login session opened.,,root,2026 Oct 16 16:01:0
+1792148462.43553,5502,3,PAM: Login session closed.,,root,2026 Oct 16 16:01:0
+1792148462.43911,5402,3,Successful sudo to ROOT executed.,,root,2026 Oct 16 16:01:0
+1792148462.44447,5501,3,PAM: Login session opened.,,root,2026 Oct 16 16:01:0
+1792148462.44864,5502,3,PAM: Login session closed.,,root,2026 Oct 16 16:01:0
+1792148462.45222,5402,3,Successful sudo to ROOT executed.,,root,2026 Oct 16 16:01:0
+1792148511.45812,591,3,Log file rotated.,,,2026 Oct 16 16:01:5
+1792148851.46170,5402,3,Successful sudo to ROOT executed.,,root,2026 Oct 16 16:07:3
+1792148851.46760,5501,3,PAM: Login session opened.,,root,2026 Oct 16 16:07:3
+1792148851.47177,5502,3,PAM: Login session closed.,,root,2026 Oct 16 16:07:3
+1792148851.47535,5402,3,Successful sudo to ROOT executed.,,root,2026 Oct 16 16:07:3
+1792148851.48071,5501,3,PAM: Login session opened.,,root,2026 Oct 16 16:07:3
+1792148851.48488,5502,3,PAM: Login session closed.,,root,2026 Oct 16 16:07:3
+1792148894.48846,5501,3,PAM: Login session opened.,,root,2026 Oct 16 16:08:1
+1792148894.49263,5502,3,PAM: Login session closed.,,root,2026 Oct 16 16:08:1
+1792148894.49621,5402,3,Successful sudo to ROOT executed.,,root,2026 Oct 16 16:08:1
+1792148894.50157,5402,3,Successful sudo to ROOT executed.,,root,2026 Oct 16 16:08:1
+1792148894.50747,5501,3,PAM: Login session opened.,,root,2026 Oct 16 16:08:1
+1792148894.51164,5502,3,PAM: Login session closed.,,root,2026 Oct 16 16:08:1
+1792148966.51522,591,3,Log file rotated.,,,2026 Oct 16 16:09:2
+1792148966.51880,5402,3,Successful sudo to ROOT executed.,,root,2026 Oct 16 16:09:2
+1792148966.52470,5501,3,PAM: Login session opened.,,root,2026 Oct 16 16:09:2
+1792148966.52887,5502,3,PAM: Login session closed.,,root,2026 Oct 16 16:09:2
+1792148966.53245,5402,3,Successful sudo to ROOT executed.,,root,2026 Oct 16 16:09:2
+1792148966.53781,5501,3,PAM: Login session opened.,,root,2026 Oct 16 16:09:2
+1792148966.54198,5502,3,PAM: Login session closed.,,root,2026 Oct 16 16:09:2
+1792149003.54556,5402,3,Successful sudo to ROOT executed.,,root,2026 Oct 16 16:10:0
+1792149003.55116,5501,3,PAM: Login session opened.,,root,2026 Oct 16 16:10:0
+1792149041.55533,5502,3,PAM: Login session closed.,,root,2026 Oct 16 16:10:4
+1792149043.55891,5501,3,PAM: Login session opened.,,root,2026 Oct 16 16:10:4
+1792149043.56308,5402,3,Successful sudo to ROOT executed.,,root,2026 Oct 16 16:10:4
+1792149073.56868,5502,3,PAM: Login session closed.,,root,2026 Oct 16 16:11:1
+1792149073.57226,5402,3,Successful sudo to ROOT executed.,,root,2026 Oct 16 16:11:1
+1792149073.57776,5501,3,PAM: Login session opened.,,root,2026 Oct 16 16:11:1
+1792149077.58193,5502,3,PAM: Login session closed.,,root,2026 Oct 16 16:11:1
+1792149077.58551,5501,3,PAM: Login session opened.,,root,2026 Oct 16 16:11:1
+1792149077.58968,5402,3,Successful sudo to ROOT executed.,,root,2026 Oct 16 16:11:1
+1792149081.59526,5502,3,PAM: Login session closed.,,root,2026 Oct 16 16:11:2

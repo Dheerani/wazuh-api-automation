@@ -1,0 +1,8 @@
+alert_id,rule_id,level,description,srcip,user,timestamp
+1792146533.6783,100001,10,Custom: SSH failed login detected,,hello,2026 Oct 16 15:28:5
+1792147406.20051,100001,10,Custom: SSH failed login detected,192.168.1.109,root,2026 Oct 16 15:43:2
+1792147408.20404,100001,10,Custom: SSH failed login detected,192.168.1.109,root,2026 Oct 16 15:43:2
+1792147410.21096,100001,10,Custom: SSH failed login detected,192.168.1.109,root,2026 Oct 16 15:43:3
+1792147412.21449,100001,10,Custom: SSH failed login detected,192.168.1.109,root,2026 Oct 16 15:43:3
+1792147416.22141,100002,12,SSH Brute Force Attack detected from 192.168.1.109,192.168.1.109,root,2026 Oct 16 15:43:3
+1792147418.26837,100001,10,Custom: SSH failed login detected,192.168.1.109,root,2026 Oct 16 15:43:3
